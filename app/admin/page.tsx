@@ -18,12 +18,12 @@ const AdminPage = async () => {
           <div className="flex gap-1">
             <Image
               src="/assets/images/logo-img.png"
-              height={32}
-              width={162}
-              alt="patient"
-              className="h-8 w-fit"
+              height={1000}
+              width={1000}
+              alt="logo"
+              className="h-10 w-fit"
             />
-            <span className="text-white text-2xl font-semibold">
+            <span className="text-white text-2xl font-semibold mt-1">
               Healthcare
             </span>
           </div>
